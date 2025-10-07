@@ -1,10 +1,11 @@
 # DIY Guitar Loop Switcher
 
 ## What is this?
-    This is a project to create a set of relays that can enable or bypass up to 6 guitar effect pedals. Additionally,  
-    there are 6 momentary switches that can toggle bypass for an individual relay. I have used it live and it does work  
-    but there is still a lot I want to work on with it. The end goal is to implement all the features listed bellow,  
-    make a pcb for it, and get one of my engineering friends to help me make a 3D printed enclosure.
+    This is a project to create a set of relays that can enable or bypass up to 6 guitar effect pedals. 
+	Additionally, there are 6 momentary switches that can toggle bypass for an individual relay. I have 
+	used it live and it does work but there is still a lot I want to work on with it. The end goal is 
+	to implement all the features listed bellow, make a pcb for it, and get one of my engineering friends
+	to help me make a 3D printed enclosure.
 
 ## Things I want to add / change	
 	- Controll preset changes with MIDI controller instead of a voltage reading
