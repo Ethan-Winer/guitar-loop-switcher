@@ -2,9 +2,9 @@
 
 ## What is a loop switcher?
     A loop switcher is a device that can automatically bypass or enable multiple guitar effect 
-	pedals at once. In this case, there are 8 available relays for 8 pedals. There are multiple presets
-    activated by the footswitches on the controller. Additionally, there are banks of presets to change
-    which ones are immediately available on the controller.
+	pedals at once. In this case, there are 8 available relays for 8 pedals. There are multiple 
+	presets activated by the footswitches on the controller. Additionally, there are banks of 
+	presets to change which ones are immediately available on the controller.
 
 
 ## Things I want to add / change	
