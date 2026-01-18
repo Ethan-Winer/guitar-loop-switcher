@@ -14,8 +14,19 @@
     - blend circuits controlled by digipots
 
 ## Pictures from the project in its current state
-![loop-switcher](https://github.com/user-attachments/assets/f47ab80a-aeab-4432-8151-6e92fdb5136d)
-![loop-switcher-wiring](https://github.com/user-attachments/assets/418ffa4e-85e4-4ac3-91ed-a0b55f1d4e0d)
+
+### Loop Switcher Enclosure
+![enclosure](https://github.com/user-attachments/assets/c30fbfbc-8e9b-43cf-b22d-5718b3776a02)
+
+### Controller wiring schematic
+![controller-schematic](https://github.com/user-attachments/assets/27f8c847-e972-4127-ae3b-f9761121f58b)
+
+### Loop Switcher Wiring
+![loop-switcher-wiring](https://github.com/user-attachments/assets/e27c3784-f833-4a99-88f9-b68e530ccbb7)
+
+### Final Product
+![loop-switcher](https://github.com/user-attachments/assets/ac0f3c06-16e0-4a88-b675-812677ac6498)
+
 
 ## Pictures of previous versions
 ![old-full-setup](https://github.com/user-attachments/assets/81033351-c67a-4114-be6e-6645a17057e4)
